@@ -78,7 +78,7 @@
 <body>
   <div class="card">
     <div class="header"></div>
-    <img src="1755686194928.jpg" alt="Foto Profil" class="profile-img">
+    <img src="Screenshot_2026-04-16-18-45-36-71.jpg" alt="Foto Profil" class="profile-img">
     <div class="content">
       <h1>KANDIYAS.Y.A</h1>
       <p class="role">calon Web Developer | Content Creator</p>
