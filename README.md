@@ -86,7 +86,7 @@
         👋Perkenalkan nama Saya kandiyas saya suka bermain game  bikin miniatur dan belajar hal baru tentang teknologi.
         Saat ini fokus di HTML,dan python.
         <div class="info">
-          <h1>Jenjang Study</h1>
+          <h1>Jenjang Pendidikan</h1>
           <p><strong>Tk:</strong>TK alhidayah 6 tribungan</p>
           <p><strong>SD:</strong>SDN 3 Dawuhan</p>
           <p><strong>SMP:</strong>SMP cendekia insani paowan</p>
@@ -99,6 +99,7 @@
         <p><strong>Lokasi:</strong> Situbondo, Jawa Timur</p>
         <p><strong>Email:</strong> ownerxiataa@gmail.com</p>
         <p><strong>Hobi:</strong> Coding, Gaming, hobymotoran ,bongkar hp dan bikin miniatur</p>
+        <p><strong>jan lupa follow sosial media ku broo😎😀⚡<p>
       </div>
 
       <div class="social">
