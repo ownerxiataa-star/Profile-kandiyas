@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -104,9 +104,4 @@
       <div class="social">
         <a href="https://www.instagram.com/my_name_xin?utm_source=qr&igsh=YzJqZ3RnbXpia2Nh" target="_blank">Instagram</a>
         <a href="https://www.tiktok.com/@dyzz835?_r=1&_t=ZS-95aYZ1CDCiu" target="_blank">TikTok</a>
-                </a>:)
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+                
