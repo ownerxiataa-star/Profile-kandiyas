@@ -100,9 +100,9 @@
         <p><strong>Email:</strong> ownerxiataa@gmail.com</p>
         <p><strong>Hobi:</strong> Coding, Gaming, hobymotoran ,bongkar hp dan bikin miniatur</p>
           <p><strong>---ID Game---</p>
-        <p><strong>ID Free Fire :7615099238</p>
+        <p><strong>ID Free Fire :7615099238
         <p><strong>ID Mobile legends:1824896465 (18808)</p>
-        <p><strong>ID Super Sus : 100602607</p>
+        <p><strong>ID Super Sus : 100602607<p>
         <p><strong>jan lupa follow sosial media ku broo😎😀⚡</p>
       
 
