@@ -87,7 +87,7 @@
         Saat ini fokus di HTML,dan python.
         <div class="info">
           <h1>Jenjang Study</h1>
-          <p><strong>Tk:</strong>TKalhidayah 6 tribungan</p>
+          <p><strong>Tk:</strong>TK alhidayah 6 tribungan</p>
           <p><strong>SD:</strong>SDN 3 Dawuhan</p>
           <p><strong>SMP:</strong>SMP cendekia insani paowan</p>
           <p><strong>SMK:</strong>SMKN 1 Situbondo</p>
