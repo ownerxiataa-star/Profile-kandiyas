@@ -100,7 +100,7 @@
         <p><strong>Email:</strong> ownerxiataa@gmail.com</p>
         <p><strong>Hobi:</strong> Coding, Gaming, hobymotoran ,bongkar hp dan bikin miniatur</p>
         <p><strong>jan lupa follow sosial media ku broo😎😀⚡<p>
-      </div>
+      
 
       <div class="social">
         <a href="https://www.instagram.com/my_name_xin?utm_source=qr&igsh=YzJqZ3RnbXpia2Nh" target="_blank">Instagram</a>
