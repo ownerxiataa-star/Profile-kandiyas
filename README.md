@@ -83,7 +83,7 @@
       <h1>KANDIYAS.Y.A</h1>
       <p class="role">calon Web Developer | Content Creator</p>
       <p class="bio">
-        Halo! Saya suka bikin website dan belajar hal baru tentang teknologi. 
+        👋Perkenalkan nama Saya kandiyas saya suka bermain game  bikin miniatur dan belajar hal baru tentang teknologi.
         Saat ini fokus di HTML,dan python.
         <div class="info">
           <h1>Jenjang Study</h1>
@@ -98,7 +98,7 @@
       <div class="info">
         <p><strong>Lokasi:</strong> Situbondo, Jawa Timur</p>
         <p><strong>Email:</strong> ownerxiataa@gmail.com</p>
-        <p><strong>Hobi:</strong> Coding, Gaming, hobymotoran</p>
+        <p><strong>Hobi:</strong> Coding, Gaming, hobymotoran ,bongkar hp dan bikin miniatur</p>
       </div>
 
       <div class="social">
